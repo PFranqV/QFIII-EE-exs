@@ -3,9 +3,9 @@ Analitical solutions to some exercises on the basis of the quantum mechanics and
 Some demostrations may be simply attached as an image. However, the majoority of content is using Python on Jupyterlab notebooks.     
 The intentions fo this is to learn some Latex coding on this environment and also use Sympy to perform the analitical calculations involved.    
 ## Contents:  
-__$1^{st}$ part__ : Mathematical properties (and demonstrations) of matrices and determinants, Postulates, Variational Principle.     
+__$1^{st}$ part__  : Mathematical properties (and demonstrations) of matrices and determinants, Postulates, Variational Principle.     
 __$2^{nd}$ part__  : Different quantum systems (particle in a box, harmonic oscillator, H atoms with no applied field) (_Progress_)  
-__$3^{rd}$ part__  : Spherical harmonics&angular momentum, Spectroscopy-related (spectral therms, selectrion rules...) (_Missing_)
+__$3^{rd}$ part__  : Polielectronic atoms and molecules (_Missing_)
 ### Exercises may be differently identified with respect to the original font:
 I highly recommend the sources linked to study this subject:  
   "_5.12_" refers to the 5.12 exercise extracted from the collection of exercises i did during my Quimica Física III course.    
