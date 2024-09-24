@@ -5,7 +5,6 @@ The intentions fo this is to learn some Latex coding on this environment and als
 ## Contents:  
 __$1^{st}$ part__  : Mathematical properties (and demonstrations) of matrices and determinants, Postulates, Variational Principle.     
 __$2^{nd}$ part__  : Different quantum systems (particle in a box, harmonic oscillator, H atoms with no applied field) and variational methods (_Progress_)  
-__$3^{rd}$ part__  : Polielectronic atoms and molecules and pertorbational methods (_Missing_)
 ### Exercises may be differently identified with respect to the original font:
 I highly recommend the sources linked to study this subject:  
   "_5.12_" refers to the 5.12 exercise extracted from the collection of exercises i did during my Quimica Física III course.    
