@@ -1,8 +1,9 @@
 # Python
-## QFIII
+## Problems
+### QFIII
 Solutions to some exercises on the basis of the quantum mechanics and quantum chemistry using Python on Jupyterlab notebooks.     
 The intentions fo this is to learn some Latex coding on this environment and also use SymPy to perform the analitical calculations involved.    
-### Contents:  
+#### Contents:  
 __$1^{st}$ part__  : Mathematical properties (and demonstrations) of matrices and determinants, Postulates, Variational Principle.     
 __$2^{nd}$ part__  : Different quantum systems (harmonic oscillator, H atoms with no applied field) and variational methods (_Progress_)  
 
