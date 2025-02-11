@@ -1,4 +1,3 @@
-# Python exercises
 ## QFIII
 Solutions to some exercises on the basis of the quantum mechanics and quantum chemistry using Python on Jupyterlab notebooks.     
 The intentions fo this is to learn some Latex coding on this environment and also use SymPy to perform the analitical calculations involved.    
